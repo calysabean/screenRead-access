@@ -1,0 +1,60 @@
+body {
+  margin: 0px;
+  background: white;
+
+}
+main {
+background: white;
+margin-top: 55px;
+}
+
+h1 {
+  width: 100%;
+  background: lightblue;
+  color: black;
+  text-align: center;
+  position: fixed;
+  margin: 0px;
+  top: 0px;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  padding-top: 10px;
+}
+
+li {
+    display: inline;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+a:visited {
+  color: navy;
+}
+
+form {
+  text-align: center;
+}
+
+button {
+  display: block;
+  background: black;
+  color: white;
+  width: 100px;
+  padding-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  font-size: 10px;
+}
+
+button:hover {
+  color: yellow;
+}
+
+.formCss {
+  text-align: center;
+}
